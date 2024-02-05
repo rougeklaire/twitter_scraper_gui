@@ -3,6 +3,7 @@ GUI for ntscraper Twitter scraping
 
 This simple program provides a GUI to scrape tweets by hashtag or profile making use of the "ntscraper" library, exporting the tweets to an excel (.xlsx) file.
 
+## Capabilities:
 ### It retrieves the following attributes: 
 tweet link, tweet content, date, likes, profile ID, language
 
