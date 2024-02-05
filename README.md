@@ -11,3 +11,10 @@ It can retrieve up to 800 tweets per runthrough.
 
 ## INSTALLATION:
 run twitter_gui_prerequisites.py
+## or manually install the prerequisites.
+run twitter_scrape_gui.py
+
+
+### Prerequisites:
+twitter_scraper_gui makes use of the following python libraries:
+pandas, tqdm, tkinter, customtkinter, ntscraper, openpyxl
