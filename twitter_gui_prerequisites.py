@@ -1,6 +1,6 @@
 import subprocess
 
-prerequisites = ["pandas", "tkinter", "customtkinter", "ntscraper", "openpyxl"]
+prerequisites = ["pandas", "tqdm", "tkinter", "customtkinter", "ntscraper", "openpyxl"]
 
 try:
     for i in prerequisites:
@@ -9,3 +9,5 @@ try:
 
 except Exception as ex:
     print(ex)
+
+print("INSTALLATION(S) COMPLETED")
